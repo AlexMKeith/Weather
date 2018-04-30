@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="submit">Submit</string>
+    <string name="hi_temp_placeholder">90</string>
+    <string name="summary_placeholder_text">Summary</string>
     <string name="powered">Powered By:\n Dark Sky</string>
     <string name="weatherLocation">Weather For\n %1$s</string>
+    <string name="low_temp_placeholder">/ 50</string>
+    <string name="current_temp_placeholder">48</string>
+    <string name="precip_chance"
 </resources>
